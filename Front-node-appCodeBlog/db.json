@@ -1,0 +1,47 @@
+{
+  "posts": [
+    {
+      "id": "0ec0b72d-ba1f-4b27-ba9e-502e1b92bd6b",
+      "autor": "Alexandre de Paris",
+      "titulo": "Adolescencia um caso sério(test edit)",
+      "texto": "Fase dificil da vida de uma cidadao, muitos acontecimentos e muitos desafios e MUITOS ABORRECIMENTOS CONHEICDO COMO FASE DA ABORRECENCIA.<br>test editt",
+      "data": "2025-02-03"
+    },
+    {
+      "id": "2a006c33-1148-40b6-96dd-1d42287c1adc",
+      "autor": "Heloisa",
+      "data": "2025-05-13",
+      "titulo": "posts web",
+      "texto": "vjdfkgjdrgldfjgdçoigjdçiogjdoigjgoç"
+    },
+    {
+      "autor": "Teste data",
+      "titulo": "Teste data",
+      "texto": "<p>Teste data</p>",
+      "data": "26/08/2026",
+      "id": "FowH5nOnL7g"
+    },
+    {
+      "autor": "Teste summer",
+      "titulo": "Teste summer",
+      "texto": "<p>aaaaaaaaaaaa<b style=\"margin: 0px; padding: 0px; box-sizing: border-box; font-family: Outfit, sans-serif; font-weight: bolder; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">aaaaaaaaaaaa<br><span style=\"background-color: rgb(255, 255, 0);\">aaaaaa<br><u>aaaaaaaa</u></span></b></p><p><span style=\"margin: 0px; padding: 0px; box-sizing: border-box; font-family: Outfit, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\"><span style=\"background-color: rgb(255, 255, 0);\">aaaaaaaaaaaaaaaaaaaaa</span></span><b></b></p>",
+      "data": "27/08/2026",
+      "id": "dtOecvsVCoo"
+    },
+    {
+      "aulor": "testeee",
+      "titulo": "testet",
+      "texto": "<p>teste</p>",
+      "data": "27/08/2026",
+      "id": "WHl44zq9RDM"
+    },
+    {
+      "autor": "teste",
+      "titulo": "teste",
+      "texto": "<p>dsaewdaswrfdsg34213</p>",
+      "data": "27/08/2026",
+      "id": "dojWshHg_HU"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
